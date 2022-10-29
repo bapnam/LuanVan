@@ -4,15 +4,24 @@ const dotenv = require('dotenv');
 const mongoose = require('mongoose');
 const morgan = require('morgan');
 
-const authorRoute = require("./routes/author");
-const bookRoute = require("./routes/book");
+const KhachHangRouter = require("./routes/KhachHang.Routes");
+const LoaiSachRouter = require("./routes/LoaiSach.Routes");
+const NhanVienRouter = require("./routes/NhanVien.Routes");
+const NXBRouter = require("./routes/NXB.Routes");
+const SanPhamRouter = require("./routes/SanPham.Routes");
+const HoaDonRouter = require("./routes/HoaDon.Routes");
+const PTTTRouter = require("./routes/PhuongThucTT.Routes");
+const TacGiaRouter = require("./routes/TacGia.Routes");
+const GioHangRouter = require("./routes/GioHang.Routes");
 
-// dotenv
-dotenv.config();
 
+//LOG---
 //
 const app = express();
 const port = 9000;
+
+// dotenv
+dotenv.config();
 
 //
 app.use(cors());
@@ -20,7 +29,8 @@ app.use(express.json());
 app.use(morgan("common"));
 
 
-// connect database
+//LOG--- CONNECT MONGOO DB
+//
 mongoose.connect((process.env.MONGODB_URL), {dbName: "BookStore"}, () => {
     try {
         console.log("Connected to MongoDB!");
@@ -29,11 +39,22 @@ mongoose.connect((process.env.MONGODB_URL), {dbName: "BookStore"}, () => {
     } 
 });
 
-// 
-app.use("/v1/author", authorRoute);
 
-app.use("/v1/book", bookRoute);
+//LOG--- ROUTES 
+//
+app.use("/v1/khachhang", KhachHangRouter);
+app.use("/v1/loaisach", LoaiSachRouter);
+app.use("/v1/nhanvien", NhanVienRouter);
+app.use("/v1/nxb", NXBRouter);
+app.use("/v1/sanpham", SanPhamRouter);
+app.use("/v1/hoadon", HoaDonRouter);
+app.use("/v1/phuongthucthanhtoan", PTTTRouter);
+app.use("/v1/tacgia", TacGiaRouter);
+app.use("/v1/giohang", GioHangRouter);
 
+
+
+//LOG---
 //
 app.listen(port, () => {
     console.log("Server is running...");
