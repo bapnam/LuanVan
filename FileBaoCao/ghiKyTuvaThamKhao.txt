@@ -1,0 +1,67 @@
+///****************************
+- Danh mục ký tự
+
+iOS 
+DOM 
+API 
+UI
+http
+url
+HTML
+REST API
+XML
+JSON
+MVC
+APIs
+CSDL
+
+
+///*******************************
+- Danh mục tham khảo
+
+1 java
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction
+
+2 Learning React Native
+Building Mobile Applications with JavaScript
+Bonnie Eisenman
+
+3 https://nodejs.dev/en/learn/
+
+4 https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction
+
+5 https://axios-http.com/docs/intro
+
+6 https://www.geeksforgeeks.org/rest-api-introduction/
+
+7 https://www.geeksforgeeks.org/mvc-framework-introduction/
+
+8 mongodb
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
