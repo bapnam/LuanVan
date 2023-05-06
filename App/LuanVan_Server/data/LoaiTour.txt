@@ -1,0 +1,50 @@
+[
+{
+    "TenLoaiTour": "Tour Nghĩ dưỡng",
+    "dsTours": []
+},
+{
+    "TenLoaiTour": "Tour Sinh thái",
+    "dsTours": []
+},
+{
+    "TenLoaiTour": "Tour Gia đình",
+    "dsTours": []
+},
+{
+    "TenLoaiTour": "Tour Tham quan - Văn hóa",
+    "dsTours": []
+},
+{
+    "TenLoaiTour": "Tour Biển",
+    "dsTours": []
+},
+{
+    "TenLoaiTour": "Tour Thiên nhiên",
+    "dsTours": []
+},
+{
+    "TenLoaiTour": "Tour Thám hiểm",
+    "dsTours": []
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]

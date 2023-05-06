@@ -1,0 +1,38 @@
+//*--------------------
+//          Ghi chú Server
+//*--------------------
+/*
+=== 1. install  (npm init)
+npm install express dotenv cors body-parser mongoose morgan
+npm install bcrypt
+npm install -g nodemon
+multer
+// npm install axios cheerio            *
+
+=== 2. Update
+
+post 1 đối tượng:
+				{
+					id: "<>",
+					newValue: "<>"
+				}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

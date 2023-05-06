@@ -1,0 +1,41 @@
+ ChuTour: 638b270911b2edc75a597df0
+ TieuDe:  Tour du lịch Hạ Long 3 ngày 2 đêm | Chuyến đi trải nghiệm kì quan thiên nhiên thế giới
+ LoaiTour: 638afb7d22ae61ce48cb185e
+ MoTa:  
+    Ngồi Tàu du ngoạn vịnh Hạ Long, len lỏi qua những hòn đảo nhỏ độc đáo: hòn Đỉnh Hương, hòn Chó Đá,...
+    Thám hiểm những điểm đến nổi bật nhất: hàng Sửng Sốt, đảo TiTop,..
+    Vui chơi tận hưởng cảm giác mát lạnh tại bãi biển Bãi Cháy
+    Chèo thuyền Kayak, vui chơi tại các khu công viên với giá cực ưu đãi.
+
+ DiaDiem: 
+ ThanhPho: 
+ LichTrinh: 
+  Sáng: 08h00  Xe & Hướng Dẫn Viên (HDV) Vietnam Booking đón quý khách tại khách sạn trong trung tâm khu vực Phố cổ - quận Hoàn Kiếm và Nhà Hát Lớn. Đoàn khởi hành đi Hạ Long, bắt đầu chuyến đi tour Hạ Long 3 ngày 2 đêm. 
+
+Trưa: Đến cảng tàu du lịch quốc tế Tuần Châu, HDV làm thủ tục đưa Quý khách lên tàu ra thăm quan khám phá tour Hạ Long - Di sản Thiên Nhiên Thế Giới hai lần được Unesco công nhận với các giá trị địa chất, địa mạo, đa dạng sinh học, giá trị thẩm mỹ… 
+
+Quý khách sẽ lên tàu và đi thăm vịnh theo lịch trình tuyến 2 - tuyến hấp dẫn nhất của du lịch Vịnh Hạ Long. Tàu sẽ đi qua vô vàn các hòn đảo lớn nhỏ với nhiều hình dáng độc đáo và được ngư dân nơi đây đặt cho những các tên đặc biệt như: Hòn Gà Chọi, hòn Chó Đá,…
+
+Quý khách dùng bữa trưa trên tàu.
+
+Chiều: Đến đảo Bồ Hòn, quý khách thăm quan: 
+
+    Hang Sửng Sốt: Một trong những hang động đẹp và rộng bậc nhất vịnh Hạ Long. Tại đây, quý khách sẽ được chiêm ngưỡng những nhũ thạch đá vôi tự nhiên lấp lánh phản chiếu ánh đèn rực rỡ. 
+    Hang Luồn:  Quý khách sẽ chèo thuyền Kayak hoặc đi thuyền nan thăm quan hang động (phí tự túc).
+
+Sau 30 phút chèo Kayak, quý khách lên tàu để đi tiếp tục đến:
+
+    Đảo Ti Top: Quý khách có thể tắm biển tại bãi Titop - nơi có bãi cát trắng và làn nước trong xanh như ngọc bích, hoặc thử trekking leo lên đỉnh núi Titop ngắm nhìn toàn cảnh Vịnh Hạ Long.
+
+Sau khi tham quan vui chơi, quý khách quay trở lại tàu và về lại cảng Tuần Châu. Quý khách có thể tắm nắng trên boong tàu, nghe nhạc, ngắm cảnh hoàng hôn và thư giãn, hòa mình vào thiên nhiên của Vịnh Hạ Long.
+
+Tối: Vào đến đất liền, quý khách lên xe về khách sạn tại Bãi Cháy nghỉ ngơi. Sau đó đoàn dùng bữa tối và tự do vui chơi khám phá Chợ Đêm, Phố ẩm thực... tại Bãi Cháy.
+
+Nghỉ đêm tại Hạ Long. 
+
+ NguoiHuongDan: 
+ SoNgay:  3
+ Gia:  
+ email: 
+ SDT:  
+ HinhAnh: 

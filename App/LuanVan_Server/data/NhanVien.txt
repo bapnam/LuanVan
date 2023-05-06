@@ -1,0 +1,51 @@
+{
+    "HoTen": "Đoàn Huỳnh Giao",
+    "NgaySinh": "01/04/2000",
+    "SDT": "0986326006",
+    "DiaChi": {
+        "TenDiaChi": "Home",
+        "TinhTP": "Cần Thơ",
+        "QuanHuyen": "Cờ Đỏ",
+        "XaPhuong": "Trung Thạnh",
+        "ChiTiet": "Trung Thạnh, Cờ Đỏ, Cần Thơ"
+    },
+    "GioiTinh": "Nu",
+    "CMND": "332156789",
+    "Email": "giao@gmail.com",
+    "MatKhau": "abc123456",
+    "Quyen": "NhanVien"
+},
+{
+    "HoTen": "Nguyễn Anh Thư",
+    "NgaySinh": "29/08/2000",
+    "SDT": "0912356679",
+    "DiaChi": {
+        "TenDiaChi": "Home",
+        "TinhTP": "Cần Thơ",
+        "QuanHuyen": "Ninh Kiều",
+        "XaPhuong": "An Khánh",
+        "ChiTiet": "An Khánh, Ninh Kiều, Cần Thơ"
+    },
+    "GioiTinh": "Nu",
+    "CMND": "332156987",
+    "Email": "thu@gmail.com",
+    "MatKhau": "abc123456",
+    "Quyen": "QuanLy"
+},
+{
+    "HoTen": "Ngô Duy Nam",
+    "NgaySinh": "14/11/2000",
+    "SDT": "0915900674",
+    "DiaChi": {
+        "TenDiaChi": "Home",
+        "TinhTP": "Kiên Giang",
+        "QuanHuyen": "An Minh",
+        "XaPhuong": "Đông Thạnh",
+        "ChiTiet": "DongThanh, An Minh, KienGiang"
+    },
+    "GioiTinh": "NAM",
+    "CMND": "371922253",
+    "Email": "nam@gmail.com",
+    "MatKhau": "abc123456",
+    "Quyen": "QuanLy"
+}
